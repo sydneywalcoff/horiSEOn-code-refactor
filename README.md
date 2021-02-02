@@ -8,7 +8,7 @@ Optimization of Horiseon's current code to increase accessability, search engine
 * CSS
 
 ## Website
-https://sydneywalcoff.github.io/run-buddy/
+https://sydneywalcoff.github.io/horiSEOn-code-refactor/
 
 ## Contribution
 Made with ❤️ by Sydney Walcoff
